@@ -1,0 +1,14 @@
+# Sample Mail:-
+From: support@paytm-securityverify.com
+To: user@example.com
+Subject: Urgent: Verify Your Paytm Account Immediately
+Dear Customer,
+We have detected unusual login activity on your Paytm account. For your security, your account has been temporarily restricted.
+To restore full access and prevent permanent suspension, please verify your account information by clicking the link below:
+https://paytm-account-verification-secure.com
+Failure to complete verification within the next 24 hours may result in account deactivation.
+If you have already completed the verification process, please disregard this message.
+Thank you for choosing Paytm.
+Regards,
+Paytm Security Team
+Customer Support Department
